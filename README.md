@@ -19,7 +19,7 @@ An explanation of the WeatherPy project and links to each visualization page.
 
 * Note: The table was a bootstrap table component, and the data came from the exported  `.csv` file to convert to HTML. One way to covert the CSV file to a HTML table is through Pandas notebook and one other way is using a conversion tool, e.g. [ConvertCSV].(http://www.convertcsv.com/csv-to-html.htm).
       
- Finish project (link):   
+ Finish project (link):    https://eileendolan.github.io/
 
 
 Copyright:
