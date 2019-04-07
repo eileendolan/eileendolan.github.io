@@ -7,6 +7,10 @@
     font-style: normal;
 }
 
+body {
+  background: #f1f1f1;
+}
+
 .first image {
     width: 20%; 
     float: left; 
