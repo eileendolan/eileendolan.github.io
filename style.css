@@ -3,12 +3,10 @@
     font-weight: bold;
     background: lightblue;
     color: grey;
-    font-size: 30px;
-    font-style: normal;
+    font-size: 60px;
+    font-style: italic;
 }
 
-body {
-  background: #f1f1f1;
 }
 
 .first image {
